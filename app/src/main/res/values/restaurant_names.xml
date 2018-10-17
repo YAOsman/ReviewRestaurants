@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="restaurant_array">
+        <item>McDonalds</item>
+        <item>KFC</item>
+        <item>Burger King</item>
+        <item>Pizza Pizza</item>
+        <item>Pizza Hut</item>
+    </string-array>
+</resources>
